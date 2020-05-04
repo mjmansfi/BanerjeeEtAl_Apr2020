@@ -1,0 +1,301 @@
+Gene ID,Gene symbol,Description,Scientific name,Common name,RefSeq Transcript accessions,RefSeq Protein accessions,SPARCLE ID,Curation Status,RefseqSelect,Default sequence
+59272,ACE2,angiotensin I converting enzyme 2,Homo sapiens,human,NM_001371415.1,NP_001358344.1,,curated,RefseqSelect,default-seq
+70008,Ace2,angiotensin I converting enzyme (peptidyl-dipeptidase A) 2,Mus musculus,house mouse,NM_027286.4,NP_081562.2,11117526,curated,RefseqSelect,default-seq
+302668,Ace2,angiotensin I converting enzyme 2,Rattus norvegicus,Norway rat,NM_001012006.1,NP_001012006.1,11117526,curated,,default-seq
+418623,ACE2,angiotensin I converting enzyme 2,Gallus gallus,chicken,XM_416822.5,XP_416822.2,11117526,model,,default-seq
+465511,ACE2,angiotensin I converting enzyme 2,Pan troglodytes,chimpanzee,XM_016942979.1,XP_016798468.1,11117526,model,,default-seq
+480847,ACE2,angiotensin I converting enzyme 2,Canis lupus familiaris,dog,NM_001165260.1,NP_001158732.1,11117526,curated,,default-seq
+492331,ace2,angiotensin I converting enzyme 2,Danio rerio,zebrafish,XM_005169359.4,XP_005169416.1,11117526,model,,default-seq
+509235,ACE2,angiotensin I converting enzyme 2,Bos taurus,cattle,XM_005228428.4,XP_005228485.1,11117526,model,,default-seq
+554349,ACE2,angiotensin I converting enzyme 2,Felis catus,domestic cat,XM_023248796.1,XP_023104564.1,11117526,model,,default-seq
+712790,ACE2,angiotensin I converting enzyme 2,Macaca mulatta,Rhesus monkey,NM_001135696.1,NP_001129168.1,11117526,curated,,default-seq
+100031783,ACE2,angiotensin I converting enzyme 2,Monodelphis domestica,gray short-tailed opossum,XM_007500873.2,XP_007500935.1,11117526,model,,default-seq
+100055952,ACE2,angiotensin I converting enzyme 2,Equus caballus,horse,XM_001490191.5,XP_001490241.1,11117526,model,,default-seq
+100085223,ACE2,angiotensin I converting enzyme 2,Ornithorhynchus anatinus,platypus,XM_001515547.4,XP_001515597.2,11117526,model,,default-seq
+100144303,ACE2,angiotensin I converting enzyme 2,Sus scrofa,pig,NM_001123070.1,NP_001116542.1,11117526,curated,,default-seq
+100171441,ACE2,angiotensin I converting enzyme 2,Pongo abelii,Sumatran orangutan,NM_001131132.2,NP_001124604.1,11117526,curated,,default-seq
+100232752,ACE2,angiotensin I converting enzyme 2,Taeniopygia guttata,zebra finch,XM_002194267.4,XP_002194303.4,,model,,default-seq
+100302675,Ace2,angiotensin I converting enzyme 2,Cavia porcellus,domestic guinea pig,XM_023562040.1,XP_023417808.1,11117526,model,,default-seq
+100327258,ACE2,angiotensin I converting enzyme 2,Oryctolagus cuniculus,rabbit,XM_002719845.3,XP_002719891.1,11117526,model,,default-seq
+100408882,ACE2,angiotensin I converting enzyme 2,Callithrix jacchus,white-tufted-ear marmoset,XM_008988993.1,XP_008987241.1,11117526,model,,default-seq
+100465802,ACE2,angiotensin I converting enzyme 2,Ailuropoda melanoleuca,giant panda,XM_002930611.3,XP_002930657.1,11117526,model,,default-seq
+100486137,ace2,angiotensin I converting enzyme 2,Xenopus tropicalis,tropical clawed frog,XM_002938247.4,XP_002938293.2,,model,,default-seq
+100541186,ACE2,angiotensin I converting enzyme 2,Meleagris gallopavo,turkey,XM_019612009.2,XP_019467554.1,11117526,model,,default-seq
+100565298,ace2,angiotensin I converting enzyme 2,Anolis carolinensis,green anole,XM_008107248.2,XP_008105455.1,11117526,model,,default-seq
+100602708,ACE2,angiotensin I converting enzyme 2,Nomascus leucogenys,northern white-cheeked gibbon,XM_003261084.3,XP_003261132.2,,model,,default-seq
+100663153,ACE2,angiotensin I converting enzyme 2,Loxodonta africana,African savanna elephant,XM_023555192.1,XP_023410960.1,11117526,model,,default-seq
+100699386,ace2,angiotensin I converting enzyme 2,Oreochromis niloticus,Nile tilapia,XM_003445805.5,XP_003445853.2,11117526,model,,default-seq
+100772552,Ace2,angiotensin I converting enzyme 2,Cricetulus griseus,Chinese hamster,XM_003503235.4,XP_003503283.1,11117526,model,,default-seq
+100917420,ACE2,angiotensin I converting enzyme 2,Sarcophilus harrisii,Tasmanian devil,XM_031958965.1,XP_031814825.1,,model,,default-seq
+100951881,ACE2,angiotensin I converting enzyme 2,Otolemur garnettii,small-eared galago,XM_003791864.2,XP_003791912.1,11117526,model,,default-seq
+100970340,ACE2,angiotensin I converting enzyme 2,Pan paniscus,pygmy chimpanzee,XM_008974180.1,XP_008972428.1,11117526,model,,default-seq
+101008749,ACE2,angiotensin I converting enzyme 2,Papio anubis,olive baboon,XM_021933040.1,XP_021788732.1,11117526,model,,default-seq
+101045190,ACE2,angiotensin I converting enzyme 2,Saimiri boliviensis,Bolivian squirrel monkey,XM_010336623.1,XP_010334925.1,11117526,model,,default-seq
+101066589,ace2,angiotensin I converting enzyme 2,Takifugu rubripes,torafugu,XM_029846414.1,XP_029702274.1,,model,,default-seq
+101103622,ACE2,angiotensin I converting enzyme 2,Ovis aries,sheep,XM_012106267.3,XP_011961657.1,11117526,model,,default-seq
+101142534,ACE2,angiotensin I converting enzyme 2,Gorilla gorilla,western gorilla,XM_019019204.1,XP_018874749.1,11117526,model,,default-seq
+101283738,ACE2,angiotensin I converting enzyme 2,Orcinus orca,killer whale,XM_004269657.2,XP_004269705.1,11117526,model,,default-seq
+101326506,ACE2,angiotensin I converting enzyme 2,Tursiops truncatus,common bottlenose dolphin,XM_019925618.1,XP_019781177.1,11117526,model,,default-seq
+101373514,ACE2,angiotensin I converting enzyme 2,Odobenus rosmarus divergens,Pacific walrus,XM_004415391.1,XP_004415448.1,11117526,model,,default-seq
+101429092,ACE2,angiotensin I converting enzyme 2,Dasypus novemcinctus,nine-banded armadillo,XM_004449067.3,XP_004449124.1,11117526,model,,default-seq
+101480744,ace2,angiotensin I converting enzyme 2,Maylandia zebra,zebra mbuna,XM_004543425.2,XP_004543482.1,11117526,model,,default-seq
+101526767,ACE2,angiotensin I converting enzyme 2,Ochotona princeps,American pika,XM_004597492.2,XP_004597549.2,11117526,model,,default-seq
+101538370,ACE2,angiotensin I converting enzyme 2,Sorex araneus,European shrew,XM_004612209.1,XP_004612266.1,11117526,model,,default-seq
+101586254,Ace2,angiotensin I converting enzyme 2,Octodon degus,degu,XM_023719547.1,XP_023575315.1,11117526,model,,default-seq
+101597469,Ace2,angiotensin I converting enzyme 2,Jaculus jaculus,lesser Egyptian jerboa,XM_004671466.2,XP_004671523.1,11117526,model,,default-seq
+101621202,ACE2,angiotensin I converting enzyme 2,Condylura cristata,star-nosed mole,XM_012730417.1,XP_012585871.1,11117526,model,,default-seq
+101656395,ACE2,angiotensin I converting enzyme 2,Echinops telfairi,small Madagascar hedgehog,XM_004709945.1,XP_004710002.1,11117526,model,,default-seq
+101673097,ACE2,angiotensin I converting enzyme 2,Mustela putorius furo,domestic ferret,NM_001310190.1,NP_001297119.1,11117526,curated,,default-seq
+101697829,Ace2,angiotensin I converting enzyme 2,Heterocephalus glaber,naked mole-rat,XM_004866100.3,XP_004866157.1,11117526,model,,default-seq
+101792697,ACE2,angiotensin I converting enzyme 2,Anas platyrhynchos,mallard,XM_013094461.3,XP_012949915.2,11117526,model,,default-seq
+101814772,ACE2,angiotensin I converting enzyme 2,Ficedula albicollis,collared flycatcher,XM_005037365.1,XP_005037422.1,11117526,model,,default-seq
+101823817,Ace2,angiotensin I converting enzyme 2,Mesocricetus auratus,golden hamster,XM_005074209.2,XP_005074266.1,11117526,model,,default-seq
+101911905,ACE2,angiotensin I converting enzyme 2,Falco peregrinus,peregrine falcon,XM_005231927.2,XP_005231984.2,11117526,model,,default-seq
+101950848,ACE2,angiotensin I converting enzyme 2,Chrysemys picta,Painted turtle,XM_024108749.1,XP_023964517.1,11117526,model,,default-seq
+101962991,Ace2,angiotensin I converting enzyme 2,Ictidomys tridecemlineatus,thirteen-lined ground squirrel,XM_005315994.3,XP_005316051.3,11117526,model,,default-seq
+101993255,Ace2,angiotensin I converting enzyme 2,Microtus ochrogaster,prairie vole,XM_005358761.3,XP_005358818.1,11117526,model,,default-seq
+102015756,Ace2,angiotensin I converting enzyme 2,Chinchilla lanigera,long-tailed chinchilla,XM_013506974.1,XP_013362428.1,11117526,model,,default-seq
+102037445,ACE2,angiotensin I converting enzyme 2,Geospiza fortis,medium ground-finch,XM_005426164.1,XP_005426221.1,11117526,model,,default-seq
+102045810,ACE2,angiotensin I converting enzyme 2,Falco cherrug,Saker falcon,XM_005443036.2,XP_005443093.2,11117526,model,,default-seq
+102067801,ACE2,angiotensin I converting enzyme 2,Zonotrichia albicollis,white-throated sparrow,XM_005491775.2,XP_005491832.2,11117526,model,,default-seq
+102095592,ACE2,angiotensin I converting enzyme 2,Columba livia,rock pigeon,XM_021298811.1,XP_021154486.1,11117526,model,,default-seq
+102108306,ACE2,angiotensin I converting enzyme 2,Pseudopodoces humilis,Tibetan ground-tit,XM_005516655.1,XP_005516712.1,11117526,model,,default-seq
+102130864,ACE2,angiotensin I converting enzyme 2,Macaca fascicularis,crab-eating macaque,XM_005593037.2,XP_005593094.1,11117526,model,,default-seq
+102184608,ACE2,angiotensin I converting enzyme 2,Capra hircus,goat,NM_001290107.1,NP_001277036.1,11117526,curated,,default-seq
+102205204,ace2,angiotensin I converting enzyme 2,Pundamilia nyererei,,XM_005724112.1,XP_005724169.1,11117526,model,,default-seq
+102218691,ace2,angiotensin I converting enzyme 2,Xiphophorus maculatus,southern platyfish,XM_005799778.2,XP_005799835.1,11117526,model,,default-seq
+102259026,ACE2,angiotensin I converting enzyme 2,Myotis brandtii,Brandt's bat,XM_014544294.1,XP_014399780.1,11117526,model,,default-seq
+102274886,ACE2,angiotensin I converting enzyme 2,Bos mutus,wild yak,XM_005903111.1,XP_005903173.1,11117526,model,,default-seq
+102308763,ace2,angiotensin I converting enzyme 2,Haplochromis burtoni,Burton's mouthbrooder,XM_005943300.2,XP_005943362.1,11117526,model,,default-seq
+102362771,ACE2,angiotensin I converting enzyme 2,Latimeria chalumnae,coelacanth,XM_005997853.2,XP_005997915.2,11117526,model,,default-seq
+102388701,ACE2,angiotensin I converting enzyme 2,Alligator sinensis,Chinese alligator,XM_025210843.1,XP_025066628.1,11117526,model,,default-seq
+102409199,ACE2,angiotensin I converting enzyme 2,Bubalus bubalis,water buffalo,XM_006041540.2,XP_006041602.1,11117526,model,,default-seq
+102419076,ACE2,angiotensin I converting enzyme 2,Myotis lucifugus,little brown bat,XM_023753669.1,XP_023609437.1,11117526,model,,default-seq
+102452742,ACE2,angiotensin I converting enzyme 2,Pelodiscus sinensis,Chinese soft-shelled turtle,XM_006122829.3,XP_006122891.1,11117526,model,,default-seq
+102484728,ACE2,angiotensin I converting enzyme 2,Tupaia chinensis,Chinese tree shrew,XM_006164692.3,XP_006164754.1,11117526,model,,default-seq
+102523304,ACE2,angiotensin I converting enzyme 2,Camelus ferus,Wild Bactrian camel,XM_006194201.2,XP_006194263.1,11117526,model,,default-seq
+102526063,ACE2,angiotensin I converting enzyme 2,Vicugna pacos,alpaca,XM_006212647.3,XP_006212709.1,11117526,model,,default-seq
+102570994,ACE2,angiotensin I converting enzyme 2,Alligator mississippiensis,American alligator,XM_019495142.1,XP_019350687.1,11117526,model,,default-seq
+102690232,ace2,angiotensin I converting enzyme 2,Lepisosteus oculatus,spotted gar,XM_006639122.2,XP_006639185.1,11117526,model,,default-seq
+102739989,ACE2,angiotensin I converting enzyme 2,Leptonychotes weddellii,Weddell seal,XM_031030890.1,XP_030886750.1,,model,,default-seq
+102763166,ACE2,angiotensin I converting enzyme 2,Myotis davidii,,XM_006775210.2,XP_006775273.1,11117526,model,,default-seq
+102797684,ace2,angiotensin I converting enzyme 2,Neolamprologus brichardi,,XM_006780411.1,XP_006780474.1,11117526,model,,default-seq
+102837906,ACE2,angiotensin I converting enzyme 2,Chrysochloris asiatica,Cape golden mole,XM_006835610.1,XP_006835673.1,11117526,model,,default-seq
+102871104,ACE2,angiotensin I converting enzyme 2,Elephantulus edwardii,Cape elephant shrew,XM_006892395.1,XP_006892457.1,11117526,model,,default-seq
+102888407,ACE2,angiotensin I converting enzyme 2,Pteropus alecto,black flying fox,XM_006911647.1,XP_006911709.1,11117526,model,,default-seq
+102919340,Ace2,angiotensin I converting enzyme 2,Peromyscus maniculatus bairdii,prairie deer mouse,XM_006973207.2,XP_006973269.1,11117526,model,,default-seq
+102938941,ACE2,angiotensin I converting enzyme 2,Chelonia mydas,Green sea turtle,XM_007070499.1,XP_007070561.1,11117526,model,,default-seq
+102965716,ACE2,angiotensin I converting enzyme 2,Panthera tigris altaica,Amur tiger,XM_007090080.2,XP_007090142.1,11117526,model,,default-seq
+102996907,ACE2,angiotensin I converting enzyme 2,Physeter catodon,sperm whale,XM_024115511.2,XP_023971279.1,11117526,model,,default-seq
+103009000,ACE2,angiotensin I converting enzyme 2,Balaenoptera acutorostrata scammoni,,XM_028164550.1,XP_028020351.1,11117526,model,,default-seq
+103030208,ace2,angiotensin I converting enzyme 2,Astyanax mexicanus,Mexican tetra,XM_022668208.1,XP_022523929.1,11117526,model,,default-seq
+103068164,ACE2,angiotensin I converting enzyme 2,Python bivittatus,Burmese python,XM_007431880.3,XP_007431942.2,11117526,model,,default-seq
+103086585,ACE2,angiotensin I converting enzyme 2,Lipotes vexillifer,Yangtze River dolphin,XM_007466327.1,XP_007466389.1,11117526,model,,default-seq
+103127724,ACE2,angiotensin I converting enzyme 2,Erinaceus europaeus,western European hedgehog,XM_007538608.2,XP_007538670.1,11117526,model,,default-seq
+103143561,ace2,angiotensin I converting enzyme 2,Poecilia formosa,Amazon molly,XM_007560146.2,XP_007560208.1,11117526,model,,default-seq
+103177482,ace2,angiotensin I converting enzyme 2,Callorhinchus milii,elephant shark,XM_007891654.1,XP_007889845.1,11117526,model,,default-seq
+103207264,ACE2,angiotensin I converting enzyme 2,Orycteropus afer afer,,XM_007952837.1,XP_007951028.1,11117526,model,,default-seq
+103231639,ACE2,angiotensin I converting enzyme 2,Chlorocebus sabaeus,green monkey,XM_007991113.1,XP_007989304.1,11117526,model,,default-seq
+103298184,ACE2,angiotensin I converting enzyme 2,Eptesicus fuscus,big brown bat,XM_008154928.2,XP_008153150.1,11117526,model,,default-seq
+103365177,ace2,angiotensin I converting enzyme 2,Stegastes partitus,bicolor damselfish,XM_008292540.1,XP_008290762.1,11117526,model,,default-seq
+103378664,ace2,angiotensin I converting enzyme 2,Cynoglossus semilaevis,tongue sole,XM_017032425.2,XP_016887914.1,11117526,model,,default-seq
+103462028,ace2,angiotensin I converting enzyme 2,Poecilia reticulata,guppy,XM_008404492.2,XP_008402714.1,11117526,model,,default-seq
+103529347,ACE2,angiotensin I converting enzyme 2,Calypte anna,Anna's hummingbird,XM_008494775.2,XP_008492997.2,,model,,default-seq
+103568003,ACE2,angiotensin I converting enzyme 2,Equus przewalskii,Przewalski's horse,XM_008544773.1,XP_008542995.1,11117526,model,,default-seq
+103611746,ACE2,angiotensin I converting enzyme 2,Corvus brachyrhynchos,American crow,XM_017728394.1,XP_017583883.1,11117526,model,,default-seq
+103668146,ACE2,angiotensin I converting enzyme 2,Ursus maritimus,polar bear,XM_008696415.1,XP_008694637.1,11117526,model,,default-seq
+103740288,Ace2,angiotensin I converting enzyme 2,Nannospalax galili,Upper Galilee mountains blind mole rat,XM_008840876.2,XP_008839098.1,11117526,model,,default-seq
+103760034,ACE2,angiotensin I converting enzyme 2,Manacus vitellinus,golden-collared manakin,XM_018084005.2,XP_017939494.2,,model,,default-seq
+103771950,ACE2,angiotensin I converting enzyme 2,Merops nubicus,carmine bee-eater,XM_008939271.1,XP_008937519.1,11117526,model,,default-seq
+103810970,ACE2,angiotensin I converting enzyme 2,Acanthisitta chloris,rifleman,XM_009083902.1,XP_009082150.1,10973133,model,,default-seq
+103815821,ACE2,angiotensin I converting enzyme 2,Serinus canaria,Common canary,XM_009089674.3,XP_009087922.1,11117526,model,,default-seq
+103896937,ACE2,angiotensin I converting enzyme 2,Aptenodytes forsteri,emperor penguin,XM_009276865.1,XP_009275140.1,11117526,model,,default-seq
+103918227,ACE2,angiotensin I converting enzyme 2,Pygoscelis adeliae,Adelie penguin,XM_009325492.1,XP_009323767.1,11117526,model,,default-seq
+104022575,ACE2,angiotensin I converting enzyme 2,Nipponia nippon,crested ibis,XM_009476315.1,XP_009474590.1,11117526,model,,default-seq
+104029332,ACE2,angiotensin I converting enzyme 2,Pelecanus crispus,Dalmatian pelican,XM_009480645.1,XP_009478920.1,11117526,model,,default-seq
+104049988,ACE2,angiotensin I converting enzyme 2,Phalacrocorax carbo,great cormorant,XM_009510775.1,XP_009509070.1,11117526,model,,default-seq
+104063399,ACE2,angiotensin I converting enzyme 2,Cuculus canorus,common cuckoo,XM_009565569.1,XP_009563864.1,11117526,model,,default-seq
+104075932,ACE2,angiotensin I converting enzyme 2,Fulmarus glacialis,Northern fulmar,XM_009576601.1,XP_009574896.1,11117522,model,,default-seq
+104127303,ACE2,angiotensin I converting enzyme 2,Egretta garzetta,little egret,XM_009639962.1,XP_009638257.1,11117526,model,,default-seq
+104140442,ACE2,angiotensin I converting enzyme 2,Struthio camelus australis,,XM_009669200.1,XP_009667495.1,11117526,model,,default-seq
+104165694,ACE2,angiotensin I converting enzyme 2,Cariama cristata,Red-legged seriema,XM_009705393.1,XP_009703695.1,11117526,model,,default-seq
+104261683,ACE2,angiotensin I converting enzyme 2,Gavia stellata,red-throated loon,XM_009817825.1,XP_009816127.1,11117526,model,,default-seq
+104273417,ACE2,angiotensin I converting enzyme 2,Apaloderma vittatum,bar-tailed trogon,XM_009868754.1,XP_009867056.1,11117526,model,,default-seq
+104289986,ACE2,angiotensin I converting enzyme 2,Charadrius vociferus,killdeer,XM_009889029.1,XP_009887331.1,11117526,model,,default-seq
+104310140,ACE2,angiotensin I converting enzyme 2,Picoides pubescens,Downy woodpecker,XM_009911547.1,XP_009909849.1,,model,,default-seq
+104310355,ACE2,angiotensin I converting enzyme 2,Haliaeetus albicilla,white-tailed eagle,XM_009927339.1,XP_009925641.1,11117522,model,,default-seq
+104334989,ACE2,angiotensin I converting enzyme 2,Opisthocomus hoazin,,XM_009940668.1,XP_009938970.1,11117526,model,,default-seq
+104350299,ACE2,angiotensin I converting enzyme 2,Leptosomus discolor,cuckoo roller,XM_009956091.1,XP_009954393.1,11117526,model,,default-seq
+104364304,ACE2,angiotensin I converting enzyme 2,Tyto alba,Barn owl,XM_033010090.1,XP_032865981.1,,model,,default-seq
+104374083,ACE2,angiotensin I converting enzyme 2,Tauraco erythrolophus,red-crested turaco,XM_009980113.1,XP_009978415.1,11117522,model,,default-seq
+104385382,ACE2,angiotensin I converting enzyme 2,Chaetura pelagica,chimney swift,XM_009993826.1,XP_009992128.1,11117526,model,,default-seq
+104405453,ACE2,angiotensin I converting enzyme 2,Nestor notabilis,Kea,XM_010014179.1,XP_010012481.1,10973133,model,,default-seq
+104470941,ACE2,angiotensin I converting enzyme 2,Pterocles gutturalis,yellow-throated sandgrouse,XM_010086071.1,XP_010084373.1,11117522,model,,default-seq
+104481125,ACE2,angiotensin I converting enzyme 2,Chlamydotis macqueenii,Macqueen's bustard,XM_010122221.1,XP_010120523.1,11117526,model,,default-seq
+104495535,ACE2,angiotensin I converting enzyme 2,Buceros rhinoceros silvestris,,XM_010138511.1,XP_010136813.1,11117526,model,,default-seq
+104502443,ACE2,angiotensin I converting enzyme 2,Eurypyga helias,sunbittern,XM_010158165.1,XP_010156467.1,11117526,model,,default-seq
+104527265,ACE2,angiotensin I converting enzyme 2,Antrostomus carolinensis,chuck-will's-widow,XM_010170936.1,XP_010169238.1,11117526,model,,default-seq
+104537500,ACE2,angiotensin I converting enzyme 2,Mesitornis unicolor,brown roatelo,XM_010180401.1,XP_010178703.1,11117526,model,,default-seq
+104561893,ACE2,angiotensin I converting enzyme 2,Colius striatus,speckled mousebird,XM_010207752.1,XP_010206054.1,11117526,model,,default-seq
+104572141,ACE2,angiotensin I converting enzyme 2,Tinamus guttatus,white-throated tinamou,XM_010219282.1,XP_010217584.1,11117526,model,,default-seq
+104624367,ACE2,angiotensin I converting enzyme 2,Phaethon lepturus,White-tailed tropicbird,XM_010291717.1,XP_010290019.1,11117526,model,,default-seq
+104664530,ACE2,angiotensin I converting enzyme 2,Rhinopithecus roxellana,golden snub-nosed monkey,XM_010366065.2,XP_010364367.2,,model,,default-seq
+104686166,ACE2,angiotensin I converting enzyme 2,Corvus cornix cornix,,XM_010394433.3,XP_010392735.2,11117526,model,,default-seq
+104840548,ACE2,angiotensin I converting enzyme 2,Haliaeetus leucocephalus,bald eagle,XM_010581526.1,XP_010579828.1,11117526,model,,default-seq
+104876936,Ace2,angiotensin I converting enzyme 2,Fukomys damarensis,Damara mole-rat,XM_010645175.2,XP_010643477.1,11117526,model,,default-seq
+104919764,ace2,angiotensin I converting enzyme 2,Larimichthys crocea,large yellow croaker,XM_010731844.3,XP_010730146.1,11117526,model,,default-seq
+104963551,ace2,angiotensin I converting enzyme 2,Notothenia coriiceps,black rockcod,XM_010792153.1,XP_010790455.1,11117526,model,,default-seq
+104984774,ACE2,angiotensin I converting enzyme 2,Bison bison bison,,XM_010834699.1,XP_010833001.1,,model,,default-seq
+105019921,ace2,angiotensin I converting enzyme 2,Esox lucius,northern pike,XM_010886475.3,XP_010884777.1,11117526,model,,default-seq
+105079297,ACE2,angiotensin I converting enzyme 2,Camelus bactrianus,Bactrian camel,XM_010968001.1,XP_010966303.1,11117526,model,,default-seq
+105100402,ACE2,angiotensin I converting enzyme 2,Camelus dromedarius,Arabian camel,XM_010993415.2,XP_010991717.1,11117526,model,,default-seq
+105294000,ACE2,angiotensin I converting enzyme 2,Pteropus vampyrus,large flying fox,XM_011362973.2,XP_011361275.1,11117526,model,,default-seq
+105478157,ACE2,angiotensin I converting enzyme 2,Macaca nemestrina,pig-tailed macaque,XM_011735203.2,XP_011733505.1,11117526,model,,default-seq
+105550583,ACE2,angiotensin I converting enzyme 2,Mandrillus leucophaeus,drill,XM_011995533.1,XP_011850923.1,11117526,model,,default-seq
+105574684,ACE2,angiotensin I converting enzyme 2,Cercocebus atys,sooty mangabey,XM_012035808.1,XP_011891198.1,11117526,model,,default-seq
+105705080,ACE2,angiotensin I converting enzyme 2,Aotus nancymaae,Ma's night monkey,XM_012434682.2,XP_012290105.1,11117526,model,,default-seq
+105805773,ACE2,angiotensin I converting enzyme 2,Propithecus coquereli,Coquerel's sifaka,XM_012638731.1,XP_012494185.1,11117526,model,,default-seq
+105882317,ACE2,angiotensin I converting enzyme 2,Microcebus murinus,gray mouse lemur,XM_020285237.1,XP_020140826.1,11117526,model,,default-seq
+105893318,ace2,angiotensin I converting enzyme 2,Clupea harengus,Atlantic herring,XM_031558926.1,XP_031414786.1,,model,,default-seq
+105934464,ace2,angiotensin I converting enzyme 2,Fundulus heteroclitus,mummichog,XM_021322522.1,XP_021178197.1,11117526,model,,default-seq
+105997641,Ace2,angiotensin I converting enzyme 2,Dipodomys ordii,Ord's kangaroo rat,XM_013032118.1,XP_012887572.1,11117526,model,,default-seq
+106037784,ACE2,angiotensin I converting enzyme 2,Anser cygnoides domesticus,,XM_013183846.1,XP_013039300.1,11117526,model,,default-seq
+106490772,ACE2,angiotensin I converting enzyme 2,Apteryx mantelli mantelli,,XM_013950282.1,XP_013805736.1,11117526,model,,default-seq
+106536269,ace2,angiotensin I converting enzyme 2,Austrofundulus limnaeus,,XM_014033474.1,XP_013888928.1,11117526,model,,default-seq
+106553039,ACE2,angiotensin I converting enzyme 2,Thamnophis sirtalis,,XM_014071461.1,XP_013926936.1,,model,,default-seq
+106609069,ace2,angiotensin I converting enzyme 2,Salmo salar,Atlantic salmon,XM_014207453.1,XP_014062928.1,11117526,model,,default-seq
+106841569,ACE2,angiotensin I converting enzyme 2,Equus asinus,ass,XM_014857647.1,XP_014713133.1,11117526,model,,default-seq
+106852915,ACE2,angiotensin I converting enzyme 2,Sturnus vulgaris,Common starling,XM_014875884.1,XP_014731370.1,11117526,model,,default-seq
+106898778,ACE2,angiotensin I converting enzyme 2,Calidris pugnax,ruff,XM_014960219.1,XP_014815705.1,11117526,model,,default-seq
+106914635,ace2,angiotensin I converting enzyme 2,Poecilia mexicana,,XM_014981539.1,XP_014837025.1,11117526,model,,default-seq
+106952008,ace2,angiotensin I converting enzyme 2,Poecilia latipinna,sailfin molly,XM_015039827.1,XP_014895313.1,11117526,model,,default-seq
+106974224,ACE2,angiotensin I converting enzyme 2,Acinonyx jubatus,cheetah,XM_027054496.1,XP_026910297.1,11117526,model,,default-seq
+107082518,ace2,angiotensin I converting enzyme 2,Cyprinodon variegatus,sheepshead minnow,XM_015371244.1,XP_015226730.1,11117526,model,,default-seq
+107115822,ACE2,angiotensin I converting enzyme 2,Gekko japonicus,,XM_015417581.1,XP_015273067.1,11117526,model,,default-seq
+107144246,Ace2,angiotensin I converting enzyme 2,Marmota marmota marmota,Alpine marmot,XM_015488054.1,XP_015343540.1,11117526,model,,default-seq
+107206020,ACE2,angiotensin I converting enzyme 2,Parus major,Great Tit,XM_015631329.2,XP_015486815.1,11117526,model,,default-seq
+107290068,ACE2,angiotensin I converting enzyme 2,Protobothrops mucrosquamatus,,XM_029284675.1,XP_029140508.1,11117526,model,,default-seq
+107325566,ACE2,angiotensin I converting enzyme 2,Coturnix japonica,Japanese quail,XM_015886577.2,XP_015742063.1,11117526,model,,default-seq
+107381688,ace2,angiotensin I converting enzyme 2,Nothobranchius furzeri,turquoise killifish,XM_015953491.1,XP_015808977.1,11117526,model,,default-seq
+107497263,ACE2,angiotensin I converting enzyme 2,Rousettus aegyptiacus,Egyptian rousette,XM_016118926.1,XP_015974412.1,11117526,model,,default-seq
+107529512,ACE2,angiotensin I converting enzyme 2,Miniopterus natalensis,,XM_016202967.1,XP_016058453.1,11117526,model,,default-seq
+107691301,ace2,angiotensin I converting enzyme 2,Sinocyclocheilus anshuiensis,,XM_016489839.1,XP_016345325.1,11117526,model,,default-seq
+107751135,ace2,angiotensin I converting enzyme 2,Sinocyclocheilus rhinocerous,,XM_016566757.1,XP_016422243.1,11117526,model,,default-seq
+108250149,ace2,angiotensin I converting enzyme 2,Kryptolebias marmoratus,mangrove rivulus,XM_017439896.2,XP_017295385.1,11117526,model,,default-seq
+108259124,ace2,angiotensin I converting enzyme 2,Ictalurus punctatus,channel catfish,XM_017458347.1,XP_017313836.1,11117526,model,,default-seq
+108390919,ACE2,angiotensin I converting enzyme 2,Manis javanica,Malayan pangolin,XM_017650257.1,XP_017505746.1,11117526,model,,default-seq
+108425708,ace2,angiotensin I converting enzyme 2,Pygocentrus nattereri,red-bellied piranha,XM_017694590.1,XP_017550079.1,11117526,model,,default-seq
+108495975,ACE2,angiotensin I converting enzyme 2,Lepidothrix coronata,blue-crowned manakin,XM_017812240.1,XP_017667729.1,11117526,model,,default-seq
+108539696,ACE2,angiotensin I converting enzyme 2,Rhinopithecus bieti,black snub-nosed monkey,XM_017888580.1,XP_017744069.1,11117526,model,,default-seq
+108792313,ACE2,angiotensin I converting enzyme 2,Nanorana parkeri,,XM_018563056.1,XP_018418558.1,11117526,model,,default-seq
+108887946,ace2,angiotensin I converting enzyme 2,Lates calcarifer,barramundi perch,XM_018683673.1,XP_018539189.1,11117526,model,,default-seq
+108920456,ace2,angiotensin I converting enzyme 2,Scleropages formosus,Asian bonytongue,XM_018729216.1,XP_018584732.1,11117526,model,,default-seq
+109248320,ACE2,angiotensin I converting enzyme 2,Panthera pardus,leopard,XM_019417963.1,XP_019273508.1,11117526,model,,default-seq
+109303314,ACE2,angiotensin I converting enzyme 2,Gavialis gangeticus,Gharial,XM_019525515.1,XP_019381060.1,11117526,model,,default-seq
+109306030,ACE2,angiotensin I converting enzyme 2,Crocodylus porosus,Australian saltwater crocodile,XM_019529281.1,XP_019384826.1,11117526,model,,default-seq
+109395939,ACE2,angiotensin I converting enzyme 2,Hipposideros armiger,great roundleaf bat,XM_019667391.1,XP_019522936.1,11117526,model,,default-seq
+109526010,ace2,angiotensin I converting enzyme 2,Hippocampus comes,tiger tail seahorse,XM_019887002.1,XP_019742561.1,11117526,model,,default-seq
+109555348,ACE2,angiotensin I converting enzyme 2,Bos indicus,zebu cattle,XM_019956160.1,XP_019811719.1,11117526,model,,default-seq
+109624773,ace2,angiotensin I converting enzyme 2,Paralichthys olivaceus,Japanese flounder,XM_020079676.1,XP_019935235.1,11117522,model,,default-seq
+109965722,ace2,angiotensin I converting enzyme 2,Monopterus albus,swamp eel,XM_020609990.1,XP_020465646.1,11117526,model,,default-seq
+109987032,ace2,angiotensin I converting enzyme 2,Labrus bergylta,ballan wrasse,XM_020637971.2,XP_020493627.1,11117526,model,,default-seq
+110075460,ACE2,angiotensin I converting enzyme 2,Pogona vitticeps,central bearded dragon,XM_020786763.1,XP_020642422.1,11117526,model,,default-seq
+110150353,ACE2,angiotensin I converting enzyme 2,Odocoileus virginianus texanus,,XM_020913306.1,XP_020768965.1,11117522,model,,default-seq
+110161222,ace2,angiotensin I converting enzyme 2,Boleophthalmus pectinirostris,great blue-spotted mudskipper,XM_020925939.1,XP_020781598.1,11117526,model,,default-seq
+110222490,ACE2,angiotensin I converting enzyme 2,Phascolarctos cinereus,koala,XM_021007494.1,XP_020863153.1,11117526,model,,default-seq
+110286854,Ace2,angiotensin I converting enzyme 2,Mus caroli,Ryukyu mouse,XM_021153479.2,XP_021009138.1,11117526,model,,default-seq
+110313851,Ace2,angiotensin I converting enzyme 2,Mus pahari,shrew mouse,XM_021188276.2,XP_021043935.1,11117526,model,,default-seq
+110392736,ACE2,angiotensin I converting enzyme 2,Numida meleagris,helmeted guineafowl,XM_021385056.1,XP_021240731.1,11117526,model,,default-seq
+110471619,ACE2,angiotensin I converting enzyme 2,Lonchura striata domestica,Bengalese finch,XM_021532351.2,XP_021388026.1,11117526,model,,default-seq
+110500299,ace2,angiotensin I converting enzyme 2,Oncorhynchus mykiss,rainbow trout,XM_021577603.1,XP_021433278.1,11117526,model,,default-seq
+110572485,ACE2,angiotensin I converting enzyme 2,Neomonachus schauinslandi,Hawaiian monk seal,XM_021680805.1,XP_021536480.1,11117526,model,,default-seq
+110960891,ace2,angiotensin I converting enzyme 2,Acanthochromis polyacanthus,spiny chromis,XM_022208296.1,XP_022063988.1,11117526,model,,default-seq
+111168887,ACE2,angiotensin I converting enzyme 2,Delphinapterus leucas,beluga whale,XM_022562652.2,XP_022418360.1,11117526,model,,default-seq
+111224725,ace2,angiotensin I converting enzyme 2,Seriola dumerili,greater amberjack,XM_022749333.1,XP_022605054.1,11117526,model,,default-seq
+111531712,ACE2,angiotensin I converting enzyme 2,Piliocolobus tephrosceles,Ugandan red Colobus,XM_023199053.2,XP_023054821.1,11117526,model,,default-seq
+111567340,ace2,angiotensin I converting enzyme 2,Amphiprion ocellaris,clown anemonefish,XM_023268388.1,XP_023124156.1,11117526,model,,default-seq
+111850234,ace2,angiotensin I converting enzyme 2,Paramormyrops kingsleyae,,XM_023823901.1,XP_023679669.1,11117526,model,,default-seq
+111922841,ACE2,angiotensin I converting enzyme 2,Cyanistes caeruleus,blue tit,XM_023918416.1,XP_023774184.1,11117526,model,,default-seq
+112076415,ace2,angiotensin I converting enzyme 2,Salvelinus alpinus,Arctic char,XM_024143199.1,XP_023998967.1,11117526,model,,default-seq
+112160389,ace2,angiotensin I converting enzyme 2,Oryzias melastigma,Indian medaka,XM_024294863.1,XP_024150631.1,11117526,model,,default-seq
+112313373,ACE2,angiotensin I converting enzyme 2,Desmodus rotundus,common vampire bat,XM_024569930.1,XP_024425698.1,11117526,model,,default-seq
+112615413,ACE2,angiotensin I converting enzyme 2,Theropithecus gelada,gelada,XM_025372062.1,XP_025227847.1,11117526,model,,default-seq
+112653200,ACE2,angiotensin I converting enzyme 2,Canis lupus dingo,dingo,XM_025437140.1,XP_025292925.1,11117526,model,,default-seq
+112812691,ACE2,angiotensin I converting enzyme 2,Callorhinus ursinus,northern fur seal,XM_025857612.1,XP_025713397.1,11117526,model,,default-seq
+112871621,ACE2,angiotensin I converting enzyme 2,Puma concolor,puma,XM_025934632.1,XP_025790417.1,11117526,model,,default-seq
+112910549,ACE2,angiotensin I converting enzyme 2,Vulpes vulpes,red fox,XM_025986727.1,XP_025842512.1,11117526,model,,default-seq
+112943996,ACE2,angiotensin I converting enzyme 2,Nothoprocta perdicaria,,XM_026035320.1,XP_025891105.1,11117526,model,,default-seq
+112976192,ACE2,angiotensin I converting enzyme 2,Apteryx rowi,Okarito brown kiwi,XM_026087161.1,XP_025942946.1,11117526,model,,default-seq
+112995661,ACE2,angiotensin I converting enzyme 2,Dromaius novaehollandiae,emu,XM_026120784.1,XP_025976569.1,11117526,model,,default-seq
+113020413,ace2,angiotensin I converting enzyme 2,Astatotilapia calliptera,eastern happy,XM_026164370.1,XP_026020155.1,11117526,model,,default-seq
+113111073,ace2,angiotensin I converting enzyme 2,Carassius auratus,goldfish,XM_026275528.1,XP_026131313.1,11117526,model,,default-seq
+113138040,ace2,angiotensin I converting enzyme 2,Mastacembelus armatus,zig-zag eel,XM_026320164.2,XP_026175949.1,11117526,model,,default-seq
+113174017,ace2,angiotensin I converting enzyme 2,Anabas testudineus,climbing perch,XM_026377646.1,XP_026233431.1,11117526,model,,default-seq
+113188420,Ace2,angiotensin I converting enzyme 2,Urocitellus parryii,Arctic ground squirrel,XM_026396720.1,XP_026252505.1,11117526,model,,default-seq
+113240702,ACE2,angiotensin I converting enzyme 2,Ursus arctos horribilis,,XM_026478080.1,XP_026333865.1,11117526,model,,default-seq
+113416856,ACE2,angiotensin I converting enzyme 2,Notechis scutatus,mainland tiger snake,XM_026674969.1,XP_026530754.1,11117526,model,,default-seq
+113445202,ACE2,angiotensin I converting enzyme 2,Pseudonaja textilis,,XM_026714269.1,XP_026570054.1,11117526,model,,default-seq
+113480767,ACE2,angiotensin I converting enzyme 2,Athene cunicularia,burrowing owl,XM_026849924.1,XP_026705725.1,11117526,model,,default-seq
+113547458,ace2,angiotensin I converting enzyme 2,Pangasianodon hypophthalmus,striped catfish,XM_026947809.1,XP_026803610.1,11117526,model,,default-seq
+113578258,ace2,angiotensin I converting enzyme 2,Electrophorus electricus,electric eel,XM_027011410.1,XP_026867211.1,11117526,model,,default-seq
+113614359,ACE2,angiotensin I converting enzyme 2,Lagenorhynchus obliquidens,Pacific white-sided dolphin,XM_027095797.1,XP_026951598.1,11117526,model,,default-seq
+113657143,ace2,angiotensin I converting enzyme 2,Tachysurus fulvidraco,yellow catfish,XM_027168723.1,XP_027024524.1,11117526,model,,default-seq
+113887087,ACE2,angiotensin I converting enzyme 2,Bos indicus x Bos taurus,hybrid cattle,XM_027533926.1,XP_027389727.1,11117526,model,,default-seq
+113931501,ACE2,angiotensin I converting enzyme 2,Zalophus californianus,California sea lion,XM_027609552.1,XP_027465353.1,11117526,model,,default-seq
+113945162,ACE2,angiotensin I converting enzyme 2,Corapipo altera,White-ruffed manakin,XM_027639017.1,XP_027494818.1,11117526,model,,default-seq
+113970285,ACE2,angiotensin I converting enzyme 2,Neopelma chrysocephalum,saffron-crested tyrant-manakin,XM_027689063.1,XP_027544864.1,11117526,model,,default-seq
+113996841,ACE2,angiotensin I converting enzyme 2,Pipra filicauda,Wire-tailed manakin,XM_027738173.1,XP_027593974.1,11117526,model,,default-seq
+114022922,ACE2,angiotensin I converting enzyme 2,Vombatus ursinus,common wombat,XM_027835355.1,XP_027691156.1,11117526,model,,default-seq
+114066567,ACE2,angiotensin I converting enzyme 2,Empidonax traillii,willow flycatcher,XM_027901350.1,XP_027757151.1,11117526,model,,default-seq
+114101496,Ace2,angiotensin I converting enzyme 2,Marmota flaviventris,yellow-bellied marmot,XM_027946507.1,XP_027802308.1,11117526,model,,default-seq
+114143639,ace2,angiotensin I converting enzyme 2,Xiphophorus couchianus,Monterrey platyfish,XM_028015870.1,XP_027871671.1,11117526,model,,default-seq
+114218071,ACE2,angiotensin I converting enzyme 2,Eumetopias jubatus,Steller sea lion,XM_028115021.1,XP_027970822.1,11117526,model,,default-seq
+114433493,ace2,angiotensin I converting enzyme 2,Parambassis ranga,Indian glassy fish,XM_028402086.1,XP_028257887.1,11117526,model,,default-seq
+114460032,ace2,angiotensin I converting enzyme 2,Gouania willdenowi,blunt-snouted clingfish,XM_028442074.1,XP_028297875.1,11117526,model,,default-seq
+114504693,ACE2,angiotensin I converting enzyme 2,Phyllostomus discolor,pale spear-nosed bat,XM_028522516.1,XP_028378317.1,11117526,model,,default-seq
+114560278,ace2,angiotensin I converting enzyme 2,Perca flavescens,yellow perch,XM_028585562.1,XP_028441363.1,11117526,model,,default-seq
+114616697,Ace2,angiotensin I converting enzyme 2,Grammomys surdaster,,XM_028762128.1,XP_028617961.1,11117526,model,,default-seq
+114650276,ace2,angiotensin I converting enzyme 2,Erpetoichthys calabaricus,reedfish,XM_028799807.1,XP_028655640.1,11117526,model,,default-seq
+114705723,Ace2,angiotensin I converting enzyme 2,Peromyscus leucopus,white-footed mouse,XM_028887776.1,XP_028743609.1,11117526,model,,default-seq
+114791264,ace2,angiotensin I converting enzyme 2,Denticeps clupeoides,denticle herring,XM_028981948.1,XP_028837781.1,11117526,model,,default-seq
+114851880,ace2,angiotensin I converting enzyme 2,Betta splendens,Siamese fighting fish,XM_029143737.1,XP_028999570.1,11117526,model,,default-seq
+114905638,ACE2,angiotensin I converting enzyme 2,Monodon monoceros,narwhal,XM_029239971.1,XP_029095804.1,11117526,model,,default-seq
+115005777,ace2,angiotensin I converting enzyme 2,Cottoperca gobio,,XM_029427721.1,XP_029283581.1,,model,,default-seq
+115040988,ace2,angiotensin I converting enzyme 2,Echeneis naucrates,live sharksucker,XM_029498206.1,XP_029354066.1,,model,,default-seq
+115092404,ACE2,angiotensin I converting enzyme 2,Rhinatrema bivittatum,two-lined caecilian,XM_029603226.1,XP_029459086.1,,model,,default-seq
+115283909,ACE2,angiotensin I converting enzyme 2,Suricata suricatta,meerkat,XM_029930396.1,XP_029786256.1,,model,,default-seq
+115334679,ACE2,angiotensin I converting enzyme 2,Aquila chrysaetos chrysaetos,,XM_029999165.1,XP_029855025.1,,model,,default-seq
+115356973,ace2,angiotensin I converting enzyme 2,Myripristis murdjan,pinecone soldierfish,XM_030048292.1,XP_029904152.1,,model,,default-seq
+115389819,ace2,angiotensin I converting enzyme 2,Salarias fasciatus,jewelled blenny,XM_030093392.1,XP_029949252.1,,model,,default-seq
+115469546,ACE2,angiotensin I converting enzyme 2,Microcaecilia unicolor,,XM_030202314.1,XP_030058174.1,,model,,default-seq
+115506976,ACE2,angiotensin I converting enzyme 2,Lynx canadensis,Canada lynx,XM_030304979.1,XP_030160839.1,,model,,default-seq
+115558491,ace2,angiotensin I converting enzyme 2,Gadus morhua,Atlantic cod,XM_030376670.1,XP_030232530.1,,model,,default-seq
+115580749,ace2,angiotensin I converting enzyme 2,Sparus aurata,gilthead seabream,XM_030415376.1,XP_030271236.1,,model,,default-seq
+115778215,ace2,angiotensin I converting enzyme 2,Archocentrus centrarchus,flier cichlid,XM_030726279.1,XP_030582139.1,,model,,default-seq
+115810184,ace2,angiotensin I converting enzyme 2,Chanos chanos,milkfish,XM_030772111.1,XP_030627971.1,,model,,default-seq
+115847896,ACE2,angiotensin I converting enzyme 2,Globicephala melas,long-finned pilot whale,XM_030848131.1,XP_030703991.1,,model,,default-seq
+115907562,ACE2,angiotensin I converting enzyme 2,Camarhynchus parvulus,,XM_030955525.1,XP_030811385.1,,model,,default-seq
+116054689,ace2,angiotensin I converting enzyme 2,Sander lucioperca,pike-perch,XM_031306367.1,XP_031162227.1,,model,,default-seq
+116090418,Ace2,angiotensin I converting enzyme 2,Mastomys coucha,southern multimammate mouse,XM_031370882.1,XP_031226742.1,,model,,default-seq
+116230727,ACE2,angiotensin I converting enzyme 2,Phasianus colchicus,Ring-necked pheasant,XM_031596059.1,XP_031451919.1,,model,,default-seq
+116311736,ace2,angiotensin I converting enzyme 2,Oreochromis aureus,,XM_031728950.1,XP_031584810.1,,model,,default-seq
+116383207,ace2,angiotensin I converting enzyme 2,Anarrhichthys ocellatus,wolf-eel,XM_031846856.1,XP_031702716.1,,model,,default-seq
+116440212,ACE2,angiotensin I converting enzyme 2,Corvus moneduloides,New Caledonian crow,XM_032100703.1,XP_031956594.1,,model,,default-seq
+116498237,ACE2,angiotensin I converting enzyme 2,Aythya fuligula,tufted duck,XM_032202495.1,XP_032058386.1,,model,,default-seq
+116515126,ACE2,angiotensin I converting enzyme 2,Thamnophis elegans,Western terrestrial garter snake,XM_032227043.1,XP_032082934.1,,model,,default-seq
+116556688,ACE2,angiotensin I converting enzyme 2,Sapajus apella,Tufted capuchin,XM_032285963.1,XP_032141854.1,,model,,default-seq
+116583680,ACE2,angiotensin I converting enzyme 2,Mustela erminea,ermine,XM_032331786.1,XP_032187677.1,,model,,default-seq
+116622877,ACE2,angiotensin I converting enzyme 2,Phoca vitulina,harbor seal,XM_032389615.1,XP_032245506.1,,model,,default-seq
+116669656,ace2,angiotensin I converting enzyme 2,Etheostoma spectabile,orangethroat darter,XM_032499635.1,XP_032355526.1,,model,,default-seq
+116719116,ace2,angiotensin I converting enzyme 2,Xiphophorus hellerii,green swordtail,XM_032561507.1,XP_032417398.1,,model,,default-seq
+116747656,ACE2,angiotensin I converting enzyme 2,Phocoena sinus,vaquita,XM_032620110.1,XP_032476001.1,,model,,default-seq
+116783009,ACE2,angiotensin I converting enzyme 2,Chiroxiphia lanceolata,lance-tailed manakin,XM_032680202.1,XP_032536093.1,,model,,default-seq
+116811532,ACE2,angiotensin I converting enzyme 2,Hylobates moloch,silvery gibbon,XM_032756617.1,XP_032612508.1,,model,,default-seq
+116821846,ACE2,angiotensin I converting enzyme 2,Chelonoidis abingdonii,Abingdon island giant tortoise,XM_032775306.1,XP_032631197.1,,model,,default-seq
+116880771,ACE2,angiotensin I converting enzyme 2,Lontra canadensis,Northern American river otter,XM_032880137.1,XP_032736028.1,,model,,default-seq
+116889074,Ace2,angiotensin I converting enzyme 2,Rattus rattus,black rat,XM_032890254.1,XP_032746145.1,,model,,default-seq
+116957162,ACE2,angiotensin I converting enzyme 2,Petromyzon marinus,sea lamprey,XM_032979141.1,XP_032835032.1,,model,,default-seq
+116980569,ace2,angiotensin I converting enzyme 2,Amblyraja radiata,thorny skate,XM_033032921.1,XP_032888812.1,,model,,default-seq
+116992285,ACE2,angiotensin I converting enzyme 2,Catharus ustulatus,Swainson's thrush,XM_033051740.1,XP_032907631.1,,model,,default-seq
+117022979,ACE2,angiotensin I converting enzyme 2,Rhinolophus ferrumequinum,greater horseshoe bat,XM_033107295.1,XP_032963186.1,,model,,default-seq
+117077264,ACE2,angiotensin I converting enzyme 2,Trachypithecus francoisi,Francois's langur,XM_033200918.1,XP_033056809.1,,model,,default-seq

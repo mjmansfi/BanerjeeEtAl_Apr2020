@@ -1,0 +1,219 @@
+Gene.ID	Gene.symbol	Description	Scientific.name	Common.name	RefSeq.Transcript.accessions	RefSeq.Protein.accessions	SPARCLE.ID	Curation.Status	RefseqSelect	Default.sequence	human_pctid	colour
+101023210	DPP4	dipeptidyl peptidase 4	Papio anubis	olive baboon	XM_021923667.2	XP_021779359.2	NA	model		default-seq	97.9	#B20C26
+105576046	DPP4	dipeptidyl peptidase 4	Cercocebus atys	sooty mangabey	XM_012038557.1	XP_011893947.1	14933217	model		default-seq	97.5	#B20C26
+105547420	DPP4	dipeptidyl peptidase 4	Mandrillus leucophaeus	drill	XM_011991008.1	XP_011846398.1	14933217	model		default-seq	97.9	#B20C26
+112636122	DPP4	dipeptidyl peptidase 4	Theropithecus gelada	gelada	XM_025404595.1	XP_025260380.1	14933217	model		default-seq	97.8	#B20C26
+102133935	DPP4	dipeptidyl peptidase 4	Macaca fascicularis	crab-eating macaque	XM_005573317.2	XP_005573374.1	14933217	model		default-seq	98	#B20C26
+654491	DPP4	dipeptidyl peptidase 4	Macaca mulatta	Rhesus monkey	NM_001039190.2	NP_001034279.2	14933217	curated		default-seq	98	#B20C26
+105483346	DPP4	dipeptidyl peptidase 4	Macaca nemestrina	pig-tailed macaque	XM_011744179.1	XP_011742481.1	14933217	model		default-seq	98	#B20C26
+103217182	DPP4	dipeptidyl peptidase 4	Chlorocebus sabaeus	green monkey	XM_007965151.1	XP_007963342.1	14933217	model		default-seq	97.9	#B20C26
+117094946	DPP4	dipeptidyl peptidase 4	Trachypithecus francoisi	Francois's langur	XM_033231300.1	XP_033087191.1	NA	model		default-seq	97.5	#B20C26
+111546068	DPP4	dipeptidyl peptidase 4	Piliocolobus tephrosceles	Ugandan red Colobus	XM_023217336.2	XP_023073104.1	14933217	model		default-seq	97.3	#B81226
+108517716	DPP4	dipeptidyl peptidase 4	Rhinopithecus bieti	black snub-nosed monkey	XM_017855805.1	XP_017711294.1	14933217	model		default-seq	97.9	#B20C26
+104661281	DPP4	dipeptidyl peptidase 4	Rhinopithecus roxellana	golden snub-nosed monkey	XM_010361854.2	XP_010360156.1	14933217	model		default-seq	97.8	#B20C26
+116810743	DPP4	dipeptidyl peptidase 4	Hylobates moloch	silvery gibbon	XM_032755565.1	XP_032611456.1	NA	model		default-seq	99	#AB0626
+100605220	DPP4	dipeptidyl peptidase 4	Nomascus leucogenys	northern white-cheeked gibbon	XM_003266171.3	XP_003266219.1	14933217	model		default-seq	99	#AB0626
+100173322	DPP4	dipeptidyl peptidase 4	Pongo abelii	Sumatran orangutan	XM_009237739.2	XP_009236014.1	14933217	model		default-seq	99.3	#AB0626
+459689	DPP4	dipeptidyl peptidase 4	Pan troglodytes	chimpanzee	XM_515858.5	XP_515858.2	14933217	model		default-seq	99.6	#A50026
+100983437	DPP4	dipeptidyl peptidase 4	Pan paniscus	pygmy chimpanzee	XM_003820939.2	XP_003820987.1	14933217	model		default-seq	99.5	#A50026
+1803	DPP4	dipeptidyl peptidase 4	Homo sapiens	human	NM_001935.4	NP_001926.2	14933217	curated	RefseqSelect	default-seq	100	#A50026
+101140329	DPP4	dipeptidyl peptidase 4	Gorilla gorilla	western gorilla	XM_004032706.3	XP_004032754.3	NA	model		default-seq	99	#AB0626
+100393303	DPP4	dipeptidyl peptidase 4	Callithrix jacchus	white-tufted-ear marmoset	XM_002749392.3	XP_002749438.1	14933217	model		default-seq	96.5	#BF1926
+105708865	DPP4	dipeptidyl peptidase 4	Aotus nancymaae	Ma's night monkey	XM_012440524.1	XP_012295947.1	14933217	model		default-seq	96.5	#BF1926
+101041907	DPP4	dipeptidyl peptidase 4	Saimiri boliviensis	Bolivian squirrel monkey	XM_003921932.2	XP_003921981.1	14933217	model		default-seq	96.1	#BF1926
+116557074	DPP4	dipeptidyl peptidase 4	Sapajus apella	Tufted capuchin	XM_032286554.1	XP_032142445.1	NA	model		default-seq	96.5	#BF1926
+101519820	DPP4	dipeptidyl peptidase 4	Ochotona princeps	American pika	XM_004577330.2	XP_004577387.1	14933217	model		default-seq	89.9	#DF422F
+100341424	DPP4	dipeptidyl peptidase 4	Oryctolagus cuniculus	rabbit	XM_008258668.2	XP_008256890.1	NA	model		default-seq	90.3	#DF422F
+102479789	DPP4	dipeptidyl peptidase 4	Tupaia chinensis	Chinese tree shrew	XM_006160270.2	XP_006160332.1	14933217	model		default-seq	88.8	#E34A33
+13482	Dpp4	dipeptidylpeptidase 4	Mus musculus	house mouse	NM_010074.3	NP_034204.1	14933217	curated	RefseqSelect	default-seq	84.5	#F47245
+110286562	Dpp4	dipeptidyl peptidase 4	Mus caroli	Ryukyu mouse	XM_021152985.2	XP_021008644.1	14933217	model		default-seq	84.7	#F26A41
+110317890	Dpp4	dipeptidyl peptidase 4	Mus pahari	shrew mouse	XM_021192699.2	XP_021048358.1	14933217	model		default-seq	76.5	#FDB467
+116090229	Dpp4	dipeptidyl peptidase 4	Mastomys coucha	southern multimammate mouse	XM_031370422.1	XP_031226282.1	NA	model		default-seq	74.8	#FDBB6D
+114622753	Dpp4	dipeptidyl peptidase 4	Grammomys surdaster		XM_028769236.1	XP_028625069.1	14933217	model		default-seq	83.8	#F47245
+116901450	Dpp4	dipeptidyl peptidase 4	Rattus rattus	black rat	XM_032903386.1	XP_032759277.1	NA	model		default-seq	84.9	#F26A41
+25253	Dpp4	dipeptidylpeptidase 4	Rattus norvegicus	Norway rat	NM_012789.1	NP_036921.1	14933217	curated		default-seq	84.5	#F47245
+114702004	Dpp4	dipeptidyl peptidase 4	Peromyscus leucopus	white-footed mouse	XM_028882256.1	XP_028738089.1	14933217	model		default-seq	79.2	#FA9D59
+102915792	Dpp4	dipeptidyl peptidase 4	Peromyscus maniculatus bairdii	prairie deer mouse	XM_006984654.2	XP_006984716.1	14933217	model		default-seq	83.7	#F47245
+101988204	Dpp4	dipeptidyl peptidase 4	Microtus ochrogaster	prairie vole	XM_013346055.2	XP_013201509.1	14933217	model		default-seq	83.8	#F47245
+100768361	Dpp4	dipeptidyl peptidase 4	Cricetulus griseus	Chinese hamster	XM_027420319.1	XP_027276120.1	14933217	model		default-seq	84.9	#F26A41
+106021061	Dpp4	dipeptidyl peptidase 4	Mesocricetus auratus	golden hamster	NM_001310571.1	NP_001297500.1	14933217	curated		default-seq	84.3	#F47245
+103744090	Dpp4	dipeptidyl peptidase 4	Nannospalax galili	Upper Galilee mountains blind mole rat	XM_008845754.3	XP_008843976.1	14933217	model		default-seq	89	#E34A33
+101615116	Dpp4	dipeptidyl peptidase 4	Jaculus jaculus	lesser Egyptian jerboa	XM_004651712.1	XP_004651769.1	14933217	model		default-seq	89.6	#DF422F
+105995413	Dpp4	dipeptidyl peptidase 4	Dipodomys ordii	Ord's kangaroo rat	XM_013029126.1	XP_012884580.1	14933217	model		default-seq	86.6	#EB5A3A
+101564569	Dpp4	dipeptidyl peptidase 4	Octodon degus	degu	XM_023713776.1	XP_023569544.1	14933217	model		default-seq	88	#E75236
+100721104	Dpp4	dipeptidyl peptidase 4	Cavia porcellus	domestic guinea pig	XM_013142394.2	XP_012997848.1	14933217	model		default-seq	86.9	#EB5A3A
+102019124	Dpp4	dipeptidyl peptidase 4	Chinchilla lanigera	long-tailed chinchilla	XM_005393318.2	XP_005393375.1	14933217	model		default-seq	89.2	#E34A33
+104850085	Dpp4	dipeptidyl peptidase 4	Fukomys damarensis	Damara mole-rat	XM_010606844.2	XP_010605146.1	14933217	model		default-seq	87.5	#E75236
+101722925	Dpp4	dipeptidyl peptidase 4	Heterocephalus glaber	naked mole-rat	XM_013076119.2	XP_012931573.1	14933217	model		default-seq	88.4	#E75236
+101955030	Dpp4	dipeptidyl peptidase 4	Ictidomys tridecemlineatus	thirteen-lined ground squirrel	XM_005315742.2	XP_005315799.1	14933217	model		default-seq	89	#E34A33
+113185842	Dpp4	dipeptidyl peptidase 4	Urocitellus parryii	Arctic ground squirrel	XM_026393086.1	XP_026248871.1	14933217	model		default-seq	89.3	#E34A33
+114094806	Dpp4	dipeptidyl peptidase 4	Marmota flaviventris	yellow-bellied marmot	XM_027938002.1	XP_027793803.1	14933217	model		default-seq	89.3	#E34A33
+107136886	Dpp4	dipeptidyl peptidase 4	Marmota marmota marmota	Alpine marmot	XM_015479253.1	XP_015334739.1	14933217	model		default-seq	89.3	#E34A33
+105819571	DPP4	dipeptidyl peptidase 4	Propithecus coquereli	Coquerel's sifaka	XM_012655850.1	XP_012511304.1	14933217	model		default-seq	94.3	#CC2526
+105855041	DPP4	dipeptidyl peptidase 4	Microcebus murinus	gray mouse lemur	XM_012735717.2	XP_012591171.2	14933217	model		default-seq	93.6	#CC2526
+100942000	DPP4	dipeptidyl peptidase 4	Otolemur garnettii	small-eared galago	XM_023516350.1	XP_023372118.1	14933217	model		default-seq	93.2	#D22B26
+101650027	DPP4	dipeptidyl peptidase 4	Echinops telfairi	small Madagascar hedgehog	XM_013004956.1	XP_012860410.1	12012129	model		default-seq	82.5	#F7834D
+102825385	DPP4	dipeptidyl peptidase 4	Chrysochloris asiatica	Cape golden mole	XM_006866987.1	XP_006867049.1	14933217	model		default-seq	86.6	#EB5A3A
+102852133	DPP4	dipeptidyl peptidase 4	Elephantulus edwardii	Cape elephant shrew	XM_006879485.1	XP_006879547.1	14933217	model		default-seq	85.2	#F26A41
+100662922	DPP4	dipeptidyl peptidase 4	Loxodonta africana	African savanna elephant	XM_023542885.1	XP_023398653.1	NA	model		default-seq	70.5	#FDDB8B
+103197870	DPP4	dipeptidyl peptidase 4	Orycteropus afer afer		XM_007941856.1	XP_007940047.1	14933217	model		default-seq	88.5	#E75236
+101418034	DPP4	dipeptidyl peptidase 4	Dasypus novemcinctus	nine-banded armadillo	XM_004464407.3	XP_004464464.1	14933217	model		default-seq	87.2	#EB5A3A
+110591850	DPP4	dipeptidyl peptidase 4	Neomonachus schauinslandi	Hawaiian monk seal	XM_021702790.1	XP_021558465.1	14933217	model		default-seq	88.3	#E75236
+102743918	DPP4	dipeptidyl peptidase 4	Leptonychotes weddellii	Weddell seal	XM_031030825.1	XP_030886685.1	NA	model		default-seq	61.7	#E1F2F3
+116635480	DPP4	dipeptidyl peptidase 4	Phoca vitulina	harbor seal	XM_032409468.1	XP_032265359.1	NA	model		default-seq	88.1	#E75236
+114216528	DPP4	dipeptidyl peptidase 4	Eumetopias jubatus	Steller sea lion	XM_028113133.1	XP_027968934.1	14933217	model		default-seq	88.8	#E34A33
+113920743	DPP4	dipeptidyl peptidase 4	Zalophus californianus	California sea lion	XM_027591035.1	XP_027446836.1	14933217	model		default-seq	88.8	#E34A33
+101383326	DPP4	dipeptidyl peptidase 4	Odobenus rosmarus divergens	Pacific walrus	XM_004410199.2	XP_004410256.1	14933217	model		default-seq	84.7	#F26A41
+113250838	DPP4	dipeptidyl peptidase 4	Ursus arctos horribilis		XM_026492677.1	XP_026348462.1	14933217	model		default-seq	88.4	#E75236
+103659868	DPP4	dipeptidyl peptidase 4	Ursus maritimus	polar bear	XM_008687491.1	XP_008685713.1	14933217	model		default-seq	83.2	#F57B49
+100466928	DPP4	dipeptidyl peptidase 4	Ailuropoda melanoleuca	giant panda	XM_011231867.2	XP_011230169.1	14933217	model		default-seq	88.4	#E75236
+101672664	DPP4	dipeptidyl peptidase 4	Mustela putorius furo	domestic ferret	XM_013051995.1	XP_012907449.1	14933217	model		default-seq	86.9	#EB5A3A
+116597685	DPP4	dipeptidyl peptidase 4	Mustela erminea	ermine	XM_032355737.1	XP_032211628.1	NA	model		default-seq	86.9	#EB5A3A
+116880886	DPP4	dipeptidyl peptidase 4	Lontra canadensis	Northern American river otter	XM_032880292.1	XP_032736183.1	NA	model		default-seq	87.3	#EB5A3A
+478767	DPP4	dipeptidyl peptidase 4	Canis lupus familiaris	dog	XM_014110860.2	XP_013966335.1	14933217	model		default-seq	84.6	#F26A41
+112674679	DPP4	dipeptidyl peptidase 4	Canis lupus dingo	dingo	XM_025471054.1	XP_025326839.1	14933217	model		default-seq	85.6	#EE623E
+112916582	DPP4	dipeptidyl peptidase 4	Vulpes vulpes	red fox	XM_025994294.1	XP_025850079.1	14933217	model		default-seq	81.7	#F7834D
+493787	DPP4	dipeptidyl peptidase 4	Felis catus	domestic cat	NM_001009838.1	NP_001009838.1	14933217	curated		default-seq	88	#E75236
+106984589	DPP4	dipeptidyl peptidase 4	Acinonyx jubatus	cheetah	XM_015082793.2	XP_014938279.1	14933217	model		default-seq	88	#E75236
+115520638	DPP4	dipeptidyl peptidase 4	Lynx canadensis	Canada lynx	XM_030325200.2	XP_030181060.1	NA	model		default-seq	87.9	#E75236
+112871826	DPP4	dipeptidyl peptidase 4	Puma concolor	puma	XM_025934890.1	XP_025790675.1	14933217	model		default-seq	87.9	#E75236
+102971960	DPP4	dipeptidyl peptidase 4	Panthera tigris altaica	Amur tiger	XM_007078452.1	XP_007078514.1	14933217	model		default-seq	87.1	#EB5A3A
+109271956	DPP4	dipeptidyl peptidase 4	Panthera pardus	leopard	XM_019457684.1	XP_019313229.1	14933217	model		default-seq	87.3	#EB5A3A
+115287771	DPP4	dipeptidyl peptidase 4	Suricata suricatta	meerkat	XM_029934484.1	XP_029790344.1	NA	model		default-seq	86	#EE623E
+102425390	DPP4	dipeptidyl peptidase 4	Myotis lucifugus	little brown bat	XM_014445986.2	XP_014301472.1	14933217	model		default-seq	83.2	#F57B49
+102764554	DPP4	dipeptidyl peptidase 4	Myotis davidii		XM_006766490.2	XP_006766553.1	14933217	model		default-seq	82.1	#F7834D
+102253137	DPP4	dipeptidyl peptidase 4	Myotis brandtii	Brandt's bat	XM_005859372.2	XP_005859434.1	14933217	model		default-seq	83.3	#F57B49
+103283510	DPP4	dipeptidyl peptidase 4	Eptesicus fuscus	big brown bat	XM_028141092.1	XP_027996893.1	14933217	model		default-seq	84.3	#F47245
+107524885	DPP4	dipeptidyl peptidase 4	Miniopterus natalensis		XM_016196976.1	XP_016052462.1	14933217	model		default-seq	83.6	#F47245
+114494633	DPP4	dipeptidyl peptidase 4	Phyllostomus discolor	pale spear-nosed bat	XM_028509902.1	XP_028365703.1	14933217	model		default-seq	83	#F57B49
+112322239	DPP4	dipeptidyl peptidase 4	Desmodus rotundus	common vampire bat	XM_024579835.1	XP_024435603.1	14933217	model		default-seq	84.1	#F47245
+109379863	DPP4	dipeptidyl peptidase 4	Hipposideros armiger	great roundleaf bat	XM_019636841.1	XP_019492386.1	14933217	model		default-seq	84.6	#F26A41
+117025802	DPP4	dipeptidyl peptidase 4	Rhinolophus ferrumequinum	greater horseshoe bat	XM_033112013.1	XP_032967904.1	NA	model		default-seq	85.4	#F26A41
+105291033	DPP4	dipeptidyl peptidase 4	Pteropus vampyrus	large flying fox	XM_011358539.2	XP_011356841.1	14933217	model		default-seq	82.9	#F57B49
+102887619	DPP4	dipeptidyl peptidase 4	Pteropus alecto	black flying fox	XM_015596622.2	XP_015452108.1	14933217	model		default-seq	83.7	#F47245
+107511738	DPP4	dipeptidyl peptidase 4	Rousettus aegyptiacus	Egyptian rousette	XM_016146439.1	XP_016001925.1	14933217	model		default-seq	88.4	#E75236
+106843167	DPP4	dipeptidyl peptidase 4	Equus asinus	ass	XM_014860096.1	XP_014715582.1	12012129	model		default-seq	89.8	#DF422F
+103554423	DPP4	dipeptidyl peptidase 4	Equus przewalskii	Przewalski's horse	XM_008525459.1	XP_008523681.1	12012129	model		default-seq	89.9	#DF422F
+100061124	DPP4	dipeptidyl peptidase 4	Equus caballus	horse	XM_023623018.1	XP_023478786.1	12012129	model		default-seq	84.1	#F47245
+101320405	DPP4	dipeptidyl peptidase 4	Tursiops truncatus	common bottlenose dolphin	XM_019923172.1	XP_019778731.1	14933217	model		default-seq	84.8	#F26A41
+113632576	DPP4	dipeptidyl peptidase 4	Lagenorhynchus obliquidens	Pacific white-sided dolphin	XM_027129826.1	XP_026985627.1	14933217	model		default-seq	84.5	#F47245
+115851015	DPP4	dipeptidyl peptidase 4	Globicephala melas	long-finned pilot whale	XM_030852609.1	XP_030708469.1	NA	model		default-seq	89.3	#E34A33
+101272821	DPP4	dipeptidyl peptidase 4	Orcinus orca	killer whale	XM_004283621.3	XP_004283669.1	14933217	model		default-seq	88.9	#E34A33
+114896616	DPP4	dipeptidyl peptidase 4	Monodon monoceros	narwhal	XM_029224651.1	XP_029080484.1	14933217	model		default-seq	89.6	#DF422F
+111172798	DPP4	dipeptidyl peptidase 4	Delphinapterus leucas	beluga whale	XM_022569882.2	XP_022425590.1	14933217	model		default-seq	85.1	#F26A41
+116756563	DPP4	dipeptidyl peptidase 4	Phocoena sinus	vaquita	XM_032637176.1	XP_032493067.1	NA	model		default-seq	86.1	#EE623E
+103088488	DPP4	dipeptidyl peptidase 4	Lipotes vexillifer	Yangtze River dolphin	XM_007464494.1	XP_007464556.1	14933217	model		default-seq	90.3	#DF422F
+103006497	DPP4	dipeptidyl peptidase 4	Balaenoptera acutorostrata scammoni		XM_007183309.1	XP_007183371.1	14933217	model		default-seq	80	#F99455
+102995718	DPP4	dipeptidyl peptidase 4	Physeter catodon	sperm whale	XM_007105292.3	XP_007105354.1	14933217	model		default-seq	89.7	#DF422F
+102518715	DPP4	dipeptidyl peptidase 4	Camelus ferus	Wild Bactrian camel	XM_032479571.1	XP_032335462.1	NA	model		default-seq	79.4	#FA9D59
+105093689	DPP4	dipeptidyl peptidase 4	Camelus dromedarius	Arabian camel	XM_031451544.1	XP_031307404.1	NA	model		default-seq	85.5	#EE623E
+105082002	DPP4	dipeptidyl peptidase 4	Camelus bactrianus	Bactrian camel	XM_010971448.1	XP_010969750.1	14933217	model		default-seq	88.1	#E75236
+102542089	DPP4	dipeptidyl peptidase 4	Vicugna pacos	alpaca	XM_015250239.2	XP_015105725.1	14933217	model		default-seq	85.1	#F26A41
+397492	DPP4	dipeptidyl peptidase 4	Sus scrofa	pig	NM_214257.1	NP_999422.1	14933217	curated		default-seq	88.4	#E75236
+102415213	DPP4	dipeptidyl peptidase 4	Bubalus bubalis	water buffalo	XM_025275905.1	XP_025131690.1	14933217	model		default-seq	88	#E75236
+105002388	DPP4	dipeptidyl peptidase 4	Bison bison bison		XM_010858964.1	XP_010857266.1	14933217	model		default-seq	87.6	#E75236
+102264961	DPP4	dipeptidyl peptidase 4	Bos mutus	wild yak	XM_005897282.2	XP_005897344.1	14933217	model		default-seq	88.6	#E34A33
+281122	DPP4	dipeptidyl peptidase 4	Bos taurus	cattle	NM_174039.3	NP_776464.1	14933217	curated		default-seq	88.6	#E34A33
+113903322	DPP4	dipeptidyl peptidase 4	Bos indicus x Bos taurus	hybrid cattle	XM_027559292.1	XP_027415093.1	14933217	model		default-seq	88.6	#E34A33
+109575250	DPP4	dipeptidyl peptidase 4	Bos indicus	zebu cattle	XM_019983260.1	XP_019838819.1	14933217	model		default-seq	84.2	#F47245
+100170324	DPP4	dipeptidyl peptidase 4	Ovis aries	sheep	XM_004004660.4	XP_004004709.1	14933217	model		default-seq	87.7	#E75236
+102184205	DPP4	dipeptidyl peptidase 4	Capra hircus	goat	XM_005676046.3	XP_005676103.1	14933217	model		default-seq	88	#E75236
+110130102	DPP4	dipeptidyl peptidase 4	Odocoileus virginianus texanus		XM_020881845.1	XP_020737504.1	14933217	model		default-seq	87.6	#E75236
+108399548	DPP4	dipeptidyl peptidase 4	Manis javanica	Malayan pangolin	XM_017664375.1	XP_017519864.1	14933217	model		default-seq	89.3	#E34A33
+103114154	DPP4	dipeptidyl peptidase 4	Erinaceus europaeus	western European hedgehog	XM_016188444.1	XP_016043930.1	14933217	model		default-seq	84.3	#F47245
+101556883	DPP4	dipeptidyl peptidase 4	Sorex araneus	European shrew	XM_004608172.1	XP_004608229.1	14933217	model		default-seq	83.4	#F57B49
+101622630	DPP4	dipeptidyl peptidase 4	Condylura cristata	star-nosed mole	XM_004674874.2	XP_004674931.1	12012129	model		default-seq	74.8	#FDBB6D
+114045809	DPP4	dipeptidyl peptidase 4	Vombatus ursinus	common wombat	XM_027865989.1	XP_027721790.1	14933217	model		default-seq	72.2	#FDCE7F
+110220755	DPP4	dipeptidyl peptidase 4	Phascolarctos cinereus	koala	XM_021004926.1	XP_020860585.1	14933217	model		default-seq	70.2	#FDDB8B
+100914547	DPP4	dipeptidyl peptidase 4	Sarcophilus harrisii	Tasmanian devil	XM_023499244.2	XP_023355012.1	14933217	model		default-seq	73.3	#FDC879
+100022348	DPP4	dipeptidyl peptidase 4	Monodelphis domestica	gray short-tailed opossum	XM_007494267.2	XP_007494329.1	14933217	model		default-seq	68.6	#FCE094
+100082186	DPP4	dipeptidyl peptidase 4	Ornithorhynchus anatinus	platypus	XM_029072243.1	XP_028928076.1	14933217	model		default-seq	70.4	#FDDB8B
+104538891	DPP4	dipeptidyl peptidase 4	Mesitornis unicolor	brown roatelo	XM_010182248.1	XP_010180550.1	14933217	model		default-seq	61.8	#E1F2F3
+104465660	DPP4	dipeptidyl peptidase 4	Pterocles gutturalis	yellow-throated sandgrouse	XM_010078790.1	XP_010077092.1	14933217	model		default-seq	60.3	#D4EDF4
+104083037	DPP4	dipeptidyl peptidase 4	Fulmarus glacialis	Northern fulmar	XM_009586388.1	XP_009584683.1	14933217	model		default-seq	62.6	#E5EFE5
+104010017	DPP4	dipeptidyl peptidase 4	Nipponia nippon	crested ibis	XM_009462077.1	XP_009460352.1	14933217	model		default-seq	58.5	#C6E6F0
+104262842	DPP4	dipeptidyl peptidase 4	Gavia stellata	red-throated loon	XM_009819331.1	XP_009817633.1	14933217	model		default-seq	62.6	#E5EFE5
+104621886	DPP4	dipeptidyl peptidase 4	Phaethon lepturus	White-tailed tropicbird	XM_010288504.1	XP_010286806.1	14933217	model		default-seq	61.8	#E1F2F3
+103918183	DPP4	dipeptidyl peptidase 4	Pygoscelis adeliae	Adelie penguin	XM_009325445.1	XP_009323720.1	14933217	model		default-seq	62.7	#E5EFE5
+103895417	DPP4	dipeptidyl peptidase 4	Aptenodytes forsteri	emperor penguin	XM_019470902.1	XP_019326447.1	14933217	model		default-seq	63.3	#E5EFE5
+104163894	DPP4	dipeptidyl peptidase 4	Cariama cristata	Red-legged seriema	XM_009703041.1	XP_009701343.1	14933217	model		default-seq	62.1	#E1F2F3
+104329052	DPP4	dipeptidyl peptidase 4	Opisthocomus hoazin		XM_009934134.1	XP_009932436.1	14933217	model		default-seq	62.8	#E5EFE5
+104530372	DPP4	dipeptidyl peptidase 4	Antrostomus carolinensis	chuck-will's-widow	XM_029086754.1	XP_028942587.1	14933217	model		default-seq	63.7	#E9EDD8
+104402032	DPP4	dipeptidyl peptidase 4	Nestor notabilis	Kea	XM_010009799.1	XP_010008101.1	14933217	model		default-seq	62.4	#E1F2F3
+102089035	DPP4	dipeptidyl peptidase 4	Columba livia	rock pigeon	XM_021290908.1	XP_021146583.1	14933217	model		default-seq	64.4	#E9EDD8
+104490860	DPP4	dipeptidyl peptidase 4	Buceros rhinoceros silvestris		XM_010133207.1	XP_010131509.1	14933217	model		default-seq	61.5	#E1F2F3
+104300876	DPP4	dipeptidyl peptidase 4	Picoides pubescens	Downy woodpecker	XM_009901195.1	XP_009899497.1	NA	model		default-seq	59.6	#D4EDF4
+104275063	DPP4	dipeptidyl peptidase 4	Apaloderma vittatum	bar-tailed trogon	XM_009870906.1	XP_009869208.1	14933217	model		default-seq	62.2	#E1F2F3
+113482121	DPP4	dipeptidyl peptidase 4	Athene cunicularia	burrowing owl	XM_026852469.1	XP_026708270.1	14933217	model		default-seq	60.4	#D4EDF4
+103776870	DPP4	dipeptidyl peptidase 4	Merops nubicus	carmine bee-eater	XM_008944396.1	XP_008942644.1	14933217	model		default-seq	61.8	#E1F2F3
+103532703	DPP4	dipeptidyl peptidase 4	Calypte anna	Anna's hummingbird	XM_030454285.1	XP_030310145.1	NA	model		default-seq	63.3	#E5EFE5
+104387517	DPP4	dipeptidyl peptidase 4	Chaetura pelagica	chimney swift	XM_009996287.1	XP_009994589.1	12012129	model		default-seq	61.6	#E1F2F3
+102050925	DPP4	dipeptidyl peptidase 4	Falco cherrug	Saker falcon	XM_014282916.2	XP_014138391.1	14933217	model		default-seq	61.8	#E1F2F3
+101915841	DPP4	dipeptidyl peptidase 4	Falco peregrinus	peregrine falcon	XM_013296766.2	XP_013152220.1	14933217	model		default-seq	61.8	#E1F2F3
+104294958	DPP4	dipeptidyl peptidase 4	Charadrius vociferus	killdeer	XM_009894651.1	XP_009892953.1	14933217	model		default-seq	62.2	#E1F2F3
+104352184	DPP4	dipeptidyl peptidase 4	Leptosomus discolor	cuckoo roller	XM_009958457.1	XP_009956759.1	14933217	model		default-seq	62.1	#E1F2F3
+104833037	DPP4	dipeptidyl peptidase 4	Haliaeetus leucocephalus	bald eagle	XM_010569541.1	XP_010567843.1	14933217	model		default-seq	52.7	#A3D3E5
+104317897	DPP4	dipeptidyl peptidase 4	Haliaeetus albicilla	white-tailed eagle	XM_009918923.1	XP_009917225.1	14933217	model		default-seq	62	#E1F2F3
+115342578	DPP4	dipeptidyl peptidase 4	Aquila chrysaetos chrysaetos		XM_030017006.1	XP_029872866.1	NA	model		default-seq	64.6	#EDEACA
+104041799	DPP4	dipeptidyl peptidase 4	Phalacrocorax carbo	great cormorant	XM_009501127.1	XP_009499422.1	14933217	model		default-seq	61.1	#DBF0F6
+104511071	DPP4	dipeptidyl peptidase 4	Eurypyga helias	sunbittern	XM_010153533.1	XP_010151835.1	14933217	model		default-seq	62.8	#E5EFE5
+104054612	DPP4	dipeptidyl peptidase 4	Cuculus canorus	common cuckoo	XM_009555653.1	XP_009553948.1	14933217	model		default-seq	57.7	#C6E6F0
+104127992	DPP4	dipeptidyl peptidase 4	Egretta garzetta	little egret	XM_009640707.1	XP_009639002.1	14933217	model		default-seq	61.6	#E1F2F3
+104382182	DPP4	dipeptidyl peptidase 4	Tauraco erythrolophus	red-crested turaco	XM_009990073.1	XP_009988375.1	14933217	model		default-seq	59.4	#CDE9F2
+104477041	DPP4	dipeptidyl peptidase 4	Chlamydotis macqueenii	Macqueen's bustard	XM_010117024.1	XP_010115326.1	14933217	model		default-seq	62.7	#E5EFE5
+102040187	DPP4	dipeptidyl peptidase 4	Geospiza fortis	medium ground-finch	XM_014306574.2	XP_014162049.2	NA	model		default-seq	50.1	#8EC2DC
+115905974	DPP4	dipeptidyl peptidase 4	Camarhynchus parvulus		XM_030952748.1	XP_030808608.1	NA	model		default-seq	63.4	#E5EFE5
+102072343	DPP4	dipeptidyl peptidase 4	Zonotrichia albicollis	white-throated sparrow	XM_014265728.2	XP_014121203.1	12012129	model		default-seq	63	#E5EFE5
+103814683	DPP4	dipeptidyl peptidase 4	Serinus canaria	Common canary	XM_018911469.2	XP_018767014.2	NA	model		default-seq	63.3	#E5EFE5
+100231365	DPP4	dipeptidyl peptidase 4	Taeniopygia guttata	zebra finch	XM_030278373.2	XP_030134233.2	NA	model		default-seq	63.2	#E5EFE5
+110469654	DPP4	dipeptidyl peptidase 4	Lonchura striata domestica	Bengalese finch	XM_021528605.1	XP_021384280.1	14933217	model		default-seq	56.9	#BFE3EE
+111931734	DPP4	dipeptidyl peptidase 4	Cyanistes caeruleus	blue tit	XM_023930450.1	XP_023786218.1	14933217	model		default-seq	61.2	#DBF0F6
+107207442	DPP4	dipeptidyl peptidase 4	Parus major	Great Tit	XM_015634518.2	XP_015490004.1	14933217	model		default-seq	63.9	#E9EDD8
+102104870	DPP4	dipeptidyl peptidase 4	Pseudopodoces humilis	Tibetan ground-tit	XM_014249143.1	XP_014104618.1	14933217	model		default-seq	63.8	#E9EDD8
+106855895	DPP4	dipeptidyl peptidase 4	Sturnus vulgaris	Common starling	XM_014880883.1	XP_014736369.1	14933217	model		default-seq	63.2	#E5EFE5
+116998924	DPP4	dipeptidyl peptidase 4	Catharus ustulatus	Swainson's thrush	XM_033065134.1	XP_032921025.1	NA	model		default-seq	63.5	#E9EDD8
+101809605	DPP4	dipeptidyl peptidase 4	Ficedula albicollis	collared flycatcher	XM_005049424.1	XP_005049481.1	14933217	model		default-seq	54.6	#B1DCEA
+104693929	DPP4	dipeptidyl peptidase 4	Corvus cornix cornix		XM_010406892.2	XP_010405194.1	14933217	model		default-seq	63.7	#E9EDD8
+103625582	DPP4	dipeptidyl peptidase 4	Corvus brachyrhynchos	American crow	XM_017726999.1	XP_017582488.1	14933217	model		default-seq	62.1	#E1F2F3
+116446349	DPP4	dipeptidyl peptidase 4	Corvus moneduloides	New Caledonian crow	XM_032114053.1	XP_031969944.1	NA	model		default-seq	59.2	#CDE9F2
+113994772	DPP4	dipeptidyl peptidase 4	Pipra filicauda	Wire-tailed manakin	XM_027734190.1	XP_027589991.1	14933217	model		default-seq	63.9	#E9EDD8
+103766789	DPP4	dipeptidyl peptidase 4	Manacus vitellinus	golden-collared manakin	XM_018072536.2	XP_017928025.2	NA	model		default-seq	63.9	#E9EDD8
+108507927	DPP4	dipeptidyl peptidase 4	Lepidothrix coronata	blue-crowned manakin	XM_017836291.1	XP_017691780.1	14933217	model		default-seq	64.1	#E9EDD8
+113944339	DPP4	dipeptidyl peptidase 4	Corapipo altera	White-ruffed manakin	XM_027637334.1	XP_027493135.1	14933217	model		default-seq	58.2	#C6E6F0
+113965389	DPP4	dipeptidyl peptidase 4	Neopelma chrysocephalum	saffron-crested tyrant-manakin	XM_027678754.1	XP_027534555.1	14933217	model		default-seq	63.2	#E5EFE5
+114065787	DPP4	dipeptidyl peptidase 4	Empidonax traillii	willow flycatcher	XM_027899945.1	XP_027755746.1	14933217	model		default-seq	63.2	#E5EFE5
+103811564	DPP4	dipeptidyl peptidase 4	Acanthisitta chloris	rifleman	XM_009084548.1	XP_009082796.1	14933217	model		default-seq	61.1	#DBF0F6
+106895345	DPP4	dipeptidyl peptidase 4	Calidris pugnax	ruff	XM_014954723.1	XP_014810209.1	14933217	model		default-seq	64.5	#E9EDD8
+424187	DPP4	dipeptidyl peptidase 4	Gallus gallus	chicken	NM_001031255.3	NP_001026426.2	14933217	curated		default-seq	65.2	#EDEACA
+116232919	DPP4	dipeptidyl peptidase 4	Phasianus colchicus	Ring-necked pheasant	XM_031599555.1	XP_031455415.1	NA	model		default-seq	65	#EDEACA
+110399925	DPP4	dipeptidyl peptidase 4	Numida meleagris	helmeted guineafowl	XM_021399401.1	XP_021255076.1	14933217	model		default-seq	64.9	#EDEACA
+107316964	DPP4	dipeptidyl peptidase 4	Coturnix japonica	Japanese quail	XM_015869085.2	XP_015724571.1	14933217	model		default-seq	64.7	#EDEACA
+116490649	DPP4	dipeptidyl peptidase 4	Aythya fuligula	tufted duck	XM_032190032.1	XP_032045923.1	NA	model		default-seq	64.5	#E9EDD8
+101798883	DPP4	dipeptidyl peptidase 4	Anas platyrhynchos	mallard	XM_027461607.1	XP_027317408.1	14933217	model		default-seq	59.6	#D4EDF4
+106029823	DPP4	dipeptidyl peptidase 4	Anser cygnoides domesticus		XM_013171141.1	XP_013026595.1	14933217	model		default-seq	61.5	#E1F2F3
+112971975	DPP4	dipeptidyl peptidase 4	Apteryx rowi	Okarito brown kiwi	XM_026077941.1	XP_025933726.1	14933217	model		default-seq	65	#EDEACA
+106499099	DPP4	dipeptidyl peptidase 4	Apteryx mantelli mantelli		XM_013960467.1	XP_013815921.1	14933217	model		default-seq	63	#E5EFE5
+112979970	DPP4	dipeptidyl peptidase 4	Dromaius novaehollandiae	emu	XM_026094533.1	XP_025950318.1	14933217	model		default-seq	63.4	#E5EFE5
+104144967	DPP4	dipeptidyl peptidase 4	Struthio camelus australis		XM_009676244.1	XP_009674539.1	14933217	model		default-seq	59.4	#CDE9F2
+104581230	DPP4	dipeptidyl peptidase 4	Tinamus guttatus	white-throated tinamou	XM_010228801.1	XP_010227103.1	14933217	model		default-seq	61.5	#E1F2F3
+112946671	DPP4	dipeptidyl peptidase 4	Nothoprocta perdicaria		XM_026038601.1	XP_025894386.1	14933217	model		default-seq	63.9	#E9EDD8
+109322495	DPP4	dipeptidyl peptidase 4	Crocodylus porosus	Australian saltwater crocodile	XM_019553546.1	XP_019409091.1	14933217	model		default-seq	61.6	#E1F2F3
+109301603	DPP4	dipeptidyl peptidase 4	Gavialis gangeticus	Gharial	XM_019522838.1	XP_019378383.1	12012129	model		default-seq	62.7	#E5EFE5
+102560124	DPP4	dipeptidyl peptidase 4	Alligator mississippiensis	American alligator	XM_019480219.1	XP_019335764.1	14933217	model		default-seq	62.5	#E1F2F3
+102384997	DPP4	dipeptidyl peptidase 4	Alligator sinensis	Chinese alligator	XM_014526682.2	XP_014382168.1	14933217	model		default-seq	61.4	#DBF0F6
+116838409	DPP4	dipeptidyl peptidase 4	Chelonoidis abingdonii	Abingdon island giant tortoise	XM_032803566.1	XP_032659457.1	NA	model		default-seq	65.2	#EDEACA
+101953968	DPP4	dipeptidyl peptidase 4	Chrysemys picta	Painted turtle	XM_008178460.2	XP_008176682.1	14933217	model		default-seq	64.6	#EDEACA
+102941165	DPP4	dipeptidyl peptidase 4	Chelonia mydas	Green sea turtle	XM_027819101.1	XP_027674902.1	14933217	model		default-seq	65.5	#F0E8BD
+102463211	DPP4	dipeptidyl peptidase 4	Pelodiscus sinensis	Chinese soft-shelled turtle	XM_006114841.3	XP_006114903.1	14933217	model		default-seq	64.9	#EDEACA
+113416500	DPP4	dipeptidyl peptidase 4	Notechis scutatus	mainland tiger snake	XM_026674413.1	XP_026530198.1	14933217	model		default-seq	61.6	#E1F2F3
+113434124	DPP4	dipeptidyl peptidase 4	Pseudonaja textilis		XM_026697155.1	XP_026552940.1	14933217	model		default-seq	61.8	#E1F2F3
+106544015	DPP4	dipeptidyl peptidase 4	Thamnophis sirtalis		XM_014060153.1	XP_013915628.1	12012129	model		default-seq	61.8	#E1F2F3
+116503999	DPP4	dipeptidyl peptidase 4	Thamnophis elegans	Western terrestrial garter snake	XM_032210812.1	XP_032066703.1	NA	model		default-seq	61.7	#E1F2F3
+107294535	DPP4	dipeptidyl peptidase 4	Protobothrops mucrosquamatus		XM_015823769.2	XP_015679255.2	12012129	model		default-seq	62.4	#E1F2F3
+103051704	DPP4	dipeptidyl peptidase 4	Python bivittatus	Burmese python	XM_015889596.2	XP_015745082.1	14933217	model		default-seq	61.7	#E1F2F3
+110081571	DPP4	dipeptidyl peptidase 4	Pogona vitticeps	central bearded dragon	XM_020798351.1	XP_020654010.1	14933217	model		default-seq	64.5	#E9EDD8
+100554124	dpp4	dipeptidyl peptidase 4	Anolis carolinensis	green anole	XM_016996737.1	XP_016852226.1	14933217	model		default-seq	62.7	#E5EFE5
+107108199	DPP4	dipeptidyl peptidase 4	Gekko japonicus		XM_015408604.1	XP_015264090.1	14933217	model		default-seq	64	#E9EDD8
+115473861	DPP4	dipeptidyl peptidase 4	Microcaecilia unicolor		XM_030209009.1	XP_030064869.1	NA	model		default-seq	56.7	#BFE3EE
+115093611	DPP4	dipeptidyl peptidase 4	Rhinatrema bivittatum	two-lined caecilian	XM_029605604.1	XP_029461464.1	NA	model		default-seq	58.8	#CDE9F2
+548987	dpp4	dipeptidyl-peptidase 4	Xenopus tropicalis	tropical clawed frog	XM_012970411.3	XP_012825865.2	NA	model		default-seq	54	#ABD9E9
