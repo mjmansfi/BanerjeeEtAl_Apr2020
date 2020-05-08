@@ -1,2 +1,2 @@
-# BanerjeeEtAl_CHAM
-Supplementary data and scripts for Banerjee et al.'s submission to Cell Host &amp; Microbe, April 2020.
+# BanerjeeEtAl_Apr2020
+Supplementary data and scripts for Banerjee et al.'s submission on viral recombination.
