@@ -6,8 +6,6 @@
 # You probably shouldn't use this for anything since it's not very extensible.
 # Send me an email if you want an explanation or a similar analysis.
 
-#library(treeio)
-#library(ggtree)
 library(ape)
 library(phangorn)
 library(viridis)
@@ -59,8 +57,8 @@ ace2.info.shared <- reorder_by_phylogeny(ace2.t.2, ace2.info.shared)
 # add colour info by percent ID to human
 brewer_ryb_10 <- c("#a50026","#d73027","#f46d43","#fdae61","#fee090","#e0f3f8","#abd9e9","#74add1","#4575b4","#313695")
 # colour ramp the lowest %id is ~30, so 70 colours is enough
-#ryb <- rev(colorRampPalette(brewer_ryb_10)(70))
 ryb <- inferno(70)
+
 pct_id_to_colour <- function(percent_identities, colour_palette){
   percent_identities <- round(as.numeric(percent_identities))
   difference_from_min <- percent_identities - 30
